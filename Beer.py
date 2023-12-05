@@ -5,5 +5,5 @@ import streamlit as st
 
 
 
-penguins_df = pd.read_excel("beer.xlsx)
+penguins_df = pd.read_excel("beer.xlsx")
 st.dataframe(penguins_df)
