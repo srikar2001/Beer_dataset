@@ -7,3 +7,4 @@ import streamlit as st
 
 penguins_df = pd.read_excel("cleaned_beer.xlsx")
 st.dataframe(penguins_df)
+#installed a package
