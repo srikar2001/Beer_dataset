@@ -1,7 +1,6 @@
 # Beer_dataset
 # Beer Dataset Visualization
 
-![Beer Visualization]
 
 #STREAMLIT APPLICAITON LINK 
 
@@ -32,6 +31,10 @@ This Streamlit app allows users to explore and visualize a dataset containing in
    Step 4: # On Windows, use .\venv\Scripts\activate( activating venv)
    
    Step 5:streamlit run beer_app.py
+
+
+
+
 
    Dependencies
    Streamlit
