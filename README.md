@@ -3,6 +3,10 @@
 
 ![Beer Visualization]
 
+#STREAMLIT APPLICAITON LINK 
+
+https://beerdataset.streamlit.app/
+
 ## Overview
 
 This Streamlit app allows users to explore and visualize a dataset containing information about various beers, including their Alcohol By Volume (ABV), International Bitterness Unit (IBU), brewery details, and more. The app provides interactive charts to analyze different aspects of the dataset.
